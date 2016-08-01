@@ -14,5 +14,12 @@ USAGE
     [self.view addSubview:breadView];
     
     [breadView setItems:array];
-
-*ScreenShot
+```
+*delegate
+```
+- (void)breadCrumbView:(YCBreadCrumbView *)view didTapItemAtIndex:(NSInteger)index{
+    NSLog(@"%ld", (long)index);
+}
+```
+ScreenShot
+---
