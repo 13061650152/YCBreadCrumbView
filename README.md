@@ -15,7 +15,7 @@ USAGE
     
     [breadView setItems:array];
 ```
-*delegate
+* delegate
 ```
 - (void)breadCrumbView:(YCBreadCrumbView *)view didTapItemAtIndex:(NSInteger)index{
     NSLog(@"%ld", (long)index);
