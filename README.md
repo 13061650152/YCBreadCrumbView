@@ -23,4 +23,4 @@ USAGE
 ```
 ScreenShot
 ---
-![bbb](http://YCBreadCrumbView/IMG_0892.PNG "aaa")
+![bbb](http://github.com/13061650152/YCBreadCrumbView/IMG_0892.PNG "aaa")
