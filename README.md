@@ -4,6 +4,7 @@
 ===
 USAGE
 ----
+* set up
 ```
     NSArray *array = @[@"这是第一级", @"这是第二级", @"这是第三级", @"这是第四级这是第四级", @"这是第五级"];
     
@@ -14,3 +15,4 @@ USAGE
     
     [breadView setItems:array];
 
+*ScreenShot
